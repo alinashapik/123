@@ -1,0 +1,21 @@
+~ git stasus
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+    (use "git add <file>..." to incluide in what will be comitted)
+
+        main.cpp
+
+        nothing added to commit but untracked files present (use "git add" to track)
+~ git add main.cpp
+~ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+   (use "git reset HEAD <file>..."to unstage)
+
+              new files:   main.cpp
+ % git commit -m "Added project files."
+  [master 275127f] Added project files.
+   3 files changed, 90 insertions(+)
+    create mode 100644 main.cpp
