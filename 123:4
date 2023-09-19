@@ -1,0 +1,10 @@
+% git push
+Username for 'https://github.com': user
+Password for 'https://user@github.com':
+Counting objects: 5, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (5), done.
+Writing objects: 100% (5), 913 bytes | 0 bytes/s, done.
+Total 5 (delta 0), reused 0 (delta 0)
+To https://github.com/user/123.git
+    fef3301..275127f  master -> master
